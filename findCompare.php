@@ -1,6 +1,6 @@
 <?php
 
-	include_once("/library/simple_html_dom.php");
+	include_once('simple_html_dom.php');
 
 	$url1 = $_POST['url1'];
 	$url2 = $_POST['url2'];
