@@ -43,10 +43,7 @@
 	 	   	// create CSV
 array_to_csv_download($similarwords);
 
-?>
 
-
-<?php
 function find($url) {
     $dominio = [];
     $hmtldoc  = file_get_html($url);
